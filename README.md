@@ -9,7 +9,7 @@ You can upload files to the server and then get download links to them.
 ## Deploy
 **Deploy to Heroku**
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/AnjanaMadu/FileServer)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/HEARTBEAT-77/FileServer)
 
 -----
 **Deploy to VPS**
